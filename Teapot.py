@@ -3,6 +3,7 @@ import time
 from os.path import join, dirname
 import json
 import requests
+import webserver
 
 import discord
 from discord.ext import commands as dcmd
